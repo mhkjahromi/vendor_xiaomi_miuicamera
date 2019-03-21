@@ -23,7 +23,7 @@ PRODUCT_COPY_FILES += \
 	$(VENDOR_PATH)/system/vendor/etc/permissions/android.hardware.vr.headtracking.xml:system/vendor/etc/permissions/android.hardware.vr.headtracking.xml \
 	$(VENDOR_PATH)/system/vendor/etc/permissions/android.hardware.vr.high_performance.xml:system/vendor/etc/permissions/android.hardware.vr.high_performance.xml \
 	$(VENDOR_PATH)/system/vendor/etc/permissions/android.software.vr.mode.xml:system/vendor/etc/permissions/android.software.vr.mode.xml \
-	$(VENDOR_PATH)/system/vendor/etc/permissions/handheld_core_hardware.xml:system/vendor/etc/permissions/handheld_core_hardware.xml 
+	$(VENDOR_PATH)/system/vendor/etc/permissions/handheld_core_hardware.xml:system/vendor/etc/permissions/handheld_core_hardware.xml \
 	$(VENDOR_PATH)/system/etc/permissions/privapp-permissions-miuicamera.xml:system/etc/permissions/privapp-permissions-miuicamera.xml
 	
 PRODUCT_PACKAGES += \
